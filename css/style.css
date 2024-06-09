@@ -2,10 +2,7 @@
     background-color: black;
     color: green;
 }
-.odd{
-    background-color: black;
-    color: white;
-}
+
 .even{
     background-color: green;
     color: white;
@@ -35,4 +32,14 @@
 .btn-login:active{
     background-color: rgb(179, 5, 5);
     border: 1px solid black;
+}
+
+.odd{
+    background-color: black;
+    color: white;
+    padding: 40px;
+    /* padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px; */
 }
