@@ -1,0 +1,38 @@
+#heading{
+    background-color: black;
+    color: green;
+}
+.odd{
+    background-color: black;
+    color: white;
+}
+.even{
+    background-color: green;
+    color: white;
+}
+
+#heading2{
+    background-color: aqua;
+    color: black;
+}
+
+.btn-login{
+    background-color: blue;
+    padding: 10px;
+    color: white;
+    font-size: larger;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.btn-login:hover{
+    background-color: rgb(14, 14, 120);
+}
+
+.btn-login:active{
+    background-color: rgb(179, 5, 5);
+    border: 1px solid black;
+}
